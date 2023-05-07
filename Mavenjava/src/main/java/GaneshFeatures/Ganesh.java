@@ -8,6 +8,9 @@ public class Ganesh {
 		System.out.println("Hi");
 		System.out.println("HiHI");
 		System.out.println("HiHIHI");
+		System.out.println("BYE");
+		System.out.println("BYEBYE");
+		System.out.println("BYEBYEBYE");
 		
 
 	}
